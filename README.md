@@ -9,5 +9,5 @@ This is a project that makes a simple e-commerce application with a Single Page 
 - **Fake Store API**: Used to fetch fake product data from [Fake Store API](https://fakestoreapi.com/).
 
 ## APIs
-- **User API**: Created using Retool to simulate user data. The API endpoint is [https://api-generator.retool.com/Q5WrAE/users](https://api-generator.retool.com/Q5WrAE/users). 
+- **User API**: Created using Retool to simulate user data. The API endpoint is [https://api-generator.retool.com/Q5WrAE/users](https://api-generator.retool.com/Q5WrAE/users). You can use [Retool API Generator](https://retool.com/api-generator) to create your own fake APIs.
 - **Product API**: [Fake Store API](https://fakestoreapi.com/) for product data.
