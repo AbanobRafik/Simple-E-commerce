@@ -13,7 +13,7 @@ This is a project that makes a simple e-commerce application with a Single Page 
 - **Product API**: [Fake Store API](https://fakestoreapi.com/) for product data.
 
 ## Demo
-You can try the demo [here](https://abanobrafik.github.io/Simple-E-commerce/). 
+You can try the demo [here](https://abanobrafik.github.io/Single-Page-Application-vanilla-js//). 
 
 ### Instructions:
 1. **Register**: First, create an account by registering.
